@@ -28,5 +28,6 @@ A powerful RESTful API for tracking and managing personal subscriptions built wi
 - **Development Server**: Nodemon 3.1.10
 - **Code Quality**: ESLint 9.32.0 with modern ES2022 support
 - **Additional**: Cookie Parser 1.4.4, Debug 2.6.9
+- 
 
 ## 📁 Project Structure
